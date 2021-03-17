@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ArincDemirel
-- 👀 I’m interested in python coding.
-- 🌱 I’m currently learning data structures and algorithms and machine learning.
+- 👀 I’m interested in wireless communications and python coding.
+- 🌱 I’m currently learning data structures in python and machine learning.
 - 📫 How to reach me www.linkedin.com/in/arincdemirel/?locale=en_US
 
 <!---
